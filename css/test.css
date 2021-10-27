@@ -1,0 +1,16 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+	font-size: 50px;
+	color: darkslategray;
+}
+h2{
+	font-size: 30px;
+	color: blanchedalmond;
+}
+.big{
+	font-size: 40px;
+	background-color: navajowhite;
+}
+.uppercase{text-transform: uppercase;}
