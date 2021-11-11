@@ -1,0 +1,12 @@
+body{
+	margin-top: 10; margin-right: 0; margin-left: 0; margin-bottom: 10;
+}
+TITLE{	background: #FD8333 ;
+}
+header{
+	text-align: center;
+}
+header img{
+	border: 2px solid #FD8333;
+    width: 100px;
+    border-radius: 100px;}
